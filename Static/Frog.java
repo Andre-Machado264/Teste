@@ -24,11 +24,6 @@ public class Frog {
 		System.out.println("Acessando o metodo estatico 2");
 	}
 	
-	public void metodo(){
-//		int e = a;
-//		int r = frogCount;
-	}
-
 	public static void main(String[] args) {
 			new Frog();
 			new Frog();
