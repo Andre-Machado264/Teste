@@ -18,10 +18,10 @@ public class Test {
 		Carro c2 = new Ferrari();
 		Carro c3 = new Carro();
 		Ferrari f4 = new Ferrari();
-//		System.out.println(f1.getFerrari());
 		
 //		f1 = c1; //nao consegue fazer conversao implicita redutora
 		c2 = f4;
+		
 		//conversao implicita generalizadora
 		c1.acelerar();
 		f1.acelerar();
