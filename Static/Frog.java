@@ -10,7 +10,7 @@ public class Frog {
 	public int a;
 
 	public Frog() {
-		c = "teste";
+		c = "String";
 		frogCount = 1;
 		f = (float) 1.25;
 		a = 25;
