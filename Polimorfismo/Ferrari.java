@@ -3,7 +3,7 @@ package polimorfismo;
 public class Ferrari extends Carro {
 	int a;
 	public Ferrari(){
-		this(5);
+		this(10);
 		System.out.println("Ferrari default");
 	}
 	public Ferrari(int a){

@@ -33,7 +33,7 @@ public class Test {
 		//conversao explicita redutora
 		c2.acelerar();
 		f2.acelerar();
-    	f2 = (Ferrari) c2;//para funcionar, deve ser inicializada como ferrari
+    		f2 = (Ferrari) c2;//para funcionar, deve ser inicializada como ferrari
 		c2.acelerar();
 		f2.acelerar();
 		System.out.println();
